@@ -1,0 +1,133 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+#div2{
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+}
+#nextMove{
+    margin-right: 176px;
+    
+}
+span{
+    padding-right: 20px;
+    font-size: 18px;
+}
+#contactUs{
+    padding: 8px 16px 8px 16px;
+    margin-left: 176px;
+    border-radius: 8px;
+    background-color: #00AC25;
+    color: white;
+    border: solid #00AC25;
+}
+#about{
+    color: #FF5DA3;
+    
+}
+#div3{
+    text-align:center ;
+    margin: 221px auto;
+    width: 1316px;
+    box-sizing: border-box;
+}
+#teacher{
+    font-size: 72px;
+    text-align: center;
+}
+#become{
+    font-size: 72px;
+    color: #FF5DA3;
+    display: inline-block;
+    margin-bottom: 24px;
+}
+
+#unlock{
+    text-align: center;
+    font-size: 24px;
+    display:inline;
+    
+}
+
+#enjoy{
+    text-align: center;
+    font-size: 48px;
+    width: 1316px;
+    height: 59px;
+    margin-top: 24px;
+    color: #000000;
+}
+#div4{
+    margin: 0 auto;
+    width: 716px;
+}
+#unlock2{
+    margin-top: 24px;
+    text-align: center;
+    height: 96px;
+    width: 716px;  
+    font-size: 24px; 
+    color: #6941C6;
+    margin-bottom: 24px;
+}
+#div5{
+    margin: 0 auto;
+    box-sizing: border-box;
+    width: 233px;
+    margin-bottom: 535px;
+}
+#becomeButton{
+    padding: 16px 24px;
+    border-radius: 8px;
+    background-color: #00AC25;
+    border: #00AC25;
+    color: #FFFFFF;
+    width: 185px;
+
+
+}
+footer{
+    background-color: #53389E;
+    padding: 24px 0 24px;
+}
+
+#div6{
+    margin: 0 auto;
+    width: 1216px;
+    vertical-align: auto;
+}
+
+#div7 {
+    padding-bottom: 30px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#imageL{
+    width: 160px;
+    text-align: center;
+    padding-top: 24px;
+    margin-right: 213px;
+    vertical-align: auto;
+}
+a{
+    text-decoration: none;
+    color: #E9D7FE;
+    margin-bottom: 40px;
+    vertical-align:auto;
+    padding-right: 32px;
+}
+#united{
+    display: inline;
+    margin-left: 192px;
+    width: 160px;
+    color: #D6BBFB;
+    text-align: right;
+}
